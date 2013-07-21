@@ -1,0 +1,1 @@
+c0c is a chat client capable of handling computational tasks.
